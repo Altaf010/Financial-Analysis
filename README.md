@@ -3,6 +3,11 @@
 **Overview**
 This project leverages Power BI to perform a detailed financial analysis by creating interactive dashboards that streamline the reporting process and improve decision-making. The project was developed as part of my Master’s in Business Analytics at the University of Limerick. The goal was to reduce report generation time and provide stakeholders with clear, actionable insights through data visualization.
 
+![Ledgers](https://github.com/user-attachments/assets/8ff3e9e6-c9bc-4df8-a6c2-de516fab4206)
+
+![P L](https://github.com/user-attachments/assets/536b0148-59a6-4f98-b559-239bc4fa4552)
+
+![BalanceSheet](https://github.com/user-attachments/assets/247dbb38-97c7-4186-a135-7f0b7f3995cc)
 
 **Motivation**
 In many organizations, financial reporting can be time-consuming and prone to errors due to manual processes. The aim of this project was to develop an automated dashboard that would reduce the time spent on generating financial reports and improve the accuracy of decision-making by visualizing key financial metrics.
